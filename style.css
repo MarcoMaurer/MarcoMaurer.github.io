@@ -1,0 +1,11 @@
+body{
+    background-color: #AEEEFE;
+}
+h2, h1{
+    background-color: #0790B3;
+    font-family: "Roboto Mono", monospace;
+}
+p, li {
+    font-family: monospace;
+    font-size: x-large;
+}
