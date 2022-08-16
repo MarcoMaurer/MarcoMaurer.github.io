@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 body{
     background-color: #AEEEFE;
 }
@@ -13,39 +12,40 @@ p, li {
     font-family: monospace;
     font-size: 16px;
 }
-
 #knowme {
     text-align: left;
 }
-
 #minha-foto {
     float: left;
     height: 234px;
     margin-top: 2px;
     padding-left: 10px;
 }
-
 .clearfix {
     overflow: auto;
 }
-
 .image-conteiner {
 
-
 }
-
 .meunome {
     text-align: center;
 }
 .skillss {
 
 }
-
 #descricao {
     padding-left: 280px;
     margin-top: 30px;
     padding-right: 30px;
-
+}
+.linksocialmedia {
+    display: inline;
+}
+.div2 {
+    margin-left: 10px;
+}
+.div1 {
+    margin-left: 10px;
 }
 
 /* div {
