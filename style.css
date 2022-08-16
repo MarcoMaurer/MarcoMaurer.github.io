@@ -15,13 +15,13 @@ p, li {
 }
 
 #knowme {
-    margin-left: 10px;
+    text-align: left;
 }
 
 #minha-foto {
     float: left;
     height: 234px;
-    margin-top: 35px;
+    margin-top: 20px;
 }
 
 .image-conteiner {
