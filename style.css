@@ -14,9 +14,14 @@ p, li {
     font-size: 15px;
 }
 
+#knowme {
+    margin-left: 10px;
+}
+
 #minha-foto {
     float: left;
     height: 234px;
+    margin-top: 35px;
 }
 
 .image-conteiner {
